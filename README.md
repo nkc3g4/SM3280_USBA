@@ -1,0 +1,1 @@
+SM3280 USB Flash Disk Schematic
